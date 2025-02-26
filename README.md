@@ -31,4 +31,4 @@
    git clone https://github.com/MChtara/NetNinjas.git
 2. Importez Finalmopia.sql dans votre base de données MySQL.
 3. Hébergez le projet sur un serveur local (ex: XAMPP).
-4. Accédez à http://localhost/Filmopia via votre navigateu
+4. Accédez à "http://localhost/Filmopia" via votre navigateu
